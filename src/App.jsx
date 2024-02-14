@@ -9,7 +9,7 @@ const words = [
   { padding: "80px", text: "Reconsider?" },
   { padding: "100px", text: "Come on" },
   { padding: "120px", text: "Final Answer?" },
-  { text: "Yes!!!!", padding: "140px" },
+  { padding: "140px", text: "Yes!!!!" },
 ];
 function App() {
   const [count, setCount] = useState(0);
